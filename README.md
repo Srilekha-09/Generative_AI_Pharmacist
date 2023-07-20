@@ -1,7 +1,6 @@
 # Generative AI Pharmacist
 
 ## Presenting to you, **Macy the AI Pharmacist**! 
-Visit the blog-https://medium.com/@srilekhamadupu2002/how-i-coded-my-own-private-french-tutor-out-of-chatgpt-183c93fabd02
 
 Keen to put the latest generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
